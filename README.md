@@ -21,7 +21,7 @@ InterviewCoachAI is a smart web application that listens to your interview respo
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/AI-Powered-Interview-Coach.git
+git clone https://github.com/KgalabiSimon/AI-Powered-Interview-Coach.git
 cd AI-Powered-Interview-Coach
 
 ```
